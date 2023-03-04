@@ -13,15 +13,16 @@
 	
 ## <picture><img src = "https://media.tenor.com/q4L3wKD-P7YAAAAj/hydra-we-bhack.gif" width = 50px></picture> **About Me**
 
-<picture> <img align="right" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width = 250px></picture>
+<p align="center">
+<picture> <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width = 250px></picture>
 
 <br>
-
-- Driven & enthusiastic self-taught developer.
-- Loves to play Online PC Games at spare time.
-- Hands-on experience in front-end and back-end development.
-- Highly interested in AI Chatbots, SQL and REST APIs.
+- Driven & enthusiastic self-taught developer.<br>
+- Loves to play Online PC Games at spare time.<br>
+- Hands-on experience in front-end and back-end development.<br>
+- Highly interested in AI Chatbots, SQL and REST APIs.<br>
 - Contact me through email by clicking <a href = "mailto: amit.pathak1199@gmail.com">here</a>.
+</p>
 
 <br><br>
 
