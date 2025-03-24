@@ -2,7 +2,7 @@
 <h1 align="center"><b>Heya, I'm Amit Pathak </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&size=25&pause=1000&color=31DBF7&center=true&vCenter=true&width=600&height=100&lines=Full+Stack+Developer+%F0%9F%96%A5%EF%B8%8F;Verified+Bot+Developer+%E2%9C%94%EF%B8%8F;Active+Learner+%F0%9F%93%96;Computer+Science+Student+%F0%9F%A7%AE;%E2%9D%A4%EF%B8%8F+Thanks+For+Visiting+My+Profile+%E2%9D%A4%EF%B8%8F" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&size=25&pause=1000&color=31DBF7&center=true&vCenter=true&width=600&height=100&lines=Full+Stack+Developer+%F0%9F%96%A5%EF%B8%8F;Verified+Bot+Developer+%E2%9C%94%EF%B8%8F;Active+Learner+%F0%9F%93%96;Professional-Software-Developer+%F0%9F%A7%AE;%E2%9D%A4%EF%B8%8F+Thanks+For+Visiting+My+Profile+%E2%9D%A4%EF%B8%8F" alt="Typing SVG" /></a>
 </p>
 
 
@@ -102,10 +102,10 @@
 
 <div align="center">
 
-<a href="https://github.com/amit-pathak11/">
-  <img src="https://github-readme-stats.vercel.app/api?username=amit-pathak11&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450"/>
+<a href="https://github.com/x-frst/">
+  <img src="https://github-readme-stats.vercel.app/api?username=x-frst&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450"/>
   <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=amit-pathak11&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375"  alt="amit-pathak11"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=x-frst&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375"  alt="x-frst"/>
 
 </a>
 </div>
