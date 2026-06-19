@@ -1,175 +1,153 @@
+<!-- ====================== HEADER (animated) ====================== -->
+<div align="center">
 
-<h1 align="center"><b>Heya, I'm Amit Pathak </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:8E2DE2,50:F000B0,100:00C2FF&text=Amit%20Pathak&fontColor=ffffff&fontSize=58&fontAlignY=38&desc=Software%20Developer%20%7C%20Backend%20%7C%20APIs%20%7C%20Bots&descSize=18&descAlignY=58&animation=twinkling" width="100%" alt="Amit Pathak" />
 
-<p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&size=25&pause=1000&color=31DBF7&center=true&vCenter=true&width=600&height=100&lines=Full+Stack+Developer+%F0%9F%96%A5%EF%B8%8F;Verified+Bot+Developer+%E2%9C%94%EF%B8%8F;Active+Learner+%F0%9F%93%96;Professional-Software-Developer+%F0%9F%A7%AE;%E2%9D%A4%EF%B8%8F+Thanks+For+Visiting+My+Profile+%E2%9D%A4%EF%B8%8F" alt="Typing SVG" /></a>
-</p>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=1000&color=F000B0&center=true&vCenter=true&width=650&height=60&lines=Software+Developer+%40+KrawlNet+Technologies;Backend+finesse%2C+edge+to+edge;REST+APIs+%C2%B7+Crawlers+%C2%B7+Custom+Bots;Python+%C2%B7+Django+%C2%B7+DRF+%C2%B7+FastAPI;3.5%2B+years+shipping+real+products;Thanks+for+stopping+by!+%E2%9D%A4%EF%B8%8F" alt="Typing SVG" />
+</a>
 
+<br/>
 
-<br>
+<a href="https://portfolio.kyroton.com"><img src="https://img.shields.io/badge/%F0%9F%8C%90_Portfolio-8E2DE2?style=for-the-badge&labelColor=00C2FF" alt="Portfolio" /></a>
+<img src="https://komarev.com/ghpvc/?username=x-frst&label=Profile+Views&color=F000B0&style=for-the-badge" alt="Profile views" />
+<img src="https://img.shields.io/github/followers/x-frst?label=Followers&style=for-the-badge&color=00C2FF&labelColor=8E2DE2" alt="Followers" />
 
+</div>
 
+<br/>
 
-	
-## <picture><img src = "https://media.tenor.com/q4L3wKD-P7YAAAAj/hydra-we-bhack.gif" width = 50px></picture> **About Me**
+<!-- ====================== ABOUT ====================== -->
+## 🧭 whoami
 
-<p align="center">
-<picture> <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width = 250px></picture>
+```python
+class AmitPathak:
+    role     = "Software Developer @ KrawlNet Technologies"
+    location = "Pune, India"
+    focus    = ["Backend Engineering", "REST APIs", "Web Scraping", "Automation Bots"]
+    stack    = ["Python", "Django", "DRF", "FastAPI", "Flask", "React.js"]
+    traits   = ["curious", "self-driven", "always-learning"]
+```
 
-<br>
-- Driven & enthusiastic self-taught developer.<br>
-- Loves to play Online PC Games at spare time.<br>
-- Hands-on experience in front-end and back-end development.<br>
-- Highly interested in AI Chatbots, SQL and REST APIs.<br>
-- Contact me through email by clicking <a href = "mailto: amit.pathak1199@gmail.com">here</a>.
-</p>
+- 🛠️ &nbsp;**3.5+ years** building scalable REST APIs, data-heavy crawlers and secure auth (OAuth / JWT).
+- 🧩 &nbsp;Live in **Django, DRF, FastAPI and Flask**. I like clean APIs and messy databases made tidy.
+- 🤖 &nbsp;Verified bot developer: shipped **Discord, Telegram & WhatsApp** bots with real-time dashboards.
+- 🕷️ &nbsp;Comfortable with advanced web scraping, **HAL APIs** and third-party integrations.
+- ☁️ &nbsp;Deploy and tinker across **AWS, Azure, Heroku and Contabo**.
+- 🎮 &nbsp;Off the clock, I'm usually gaming or breaking and fixing something new.
 
-<br><br>
+<br/>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
-
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
-<br>
-
-<p align="center">
-
-- **Programming (Back-End)**:
-    
-    ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
-    ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-    ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-    ![C](https://img.shields.io/badge/C%20-%232370ED.svg?style=for-the-badge&logo=c&logoColor=white)
-    ![C++](https://img.shields.io/badge/C++%20-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-
-<br>   
-    
-- **Front-End Development**:
-
-   ![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-   ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-   ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-
-<br>
-
-- **Technologies**:
-
-    ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-    ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-    ![Dialog Flow](https://img.shields.io/badge/dialogflow-FF9800?style=for-the-badge&logo=dialogflow&logoColor=white)
-    ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-    
-<br>
-
-- **Cloud Computing**:
-
-    ![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white) 
-    ![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white) 
-    ![Glitch](https://img.shields.io/badge/Glitch-2800ff?style=for-the-badge&logo=glitch&logoColor=white)
-    ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-
-<br>
-
-<br>
-
-- **Operating Systems**:
-
-    ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
-    ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) 
-    ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-    
-<br>
-
-- **Extras**:
-
-    ![VSC](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
-    ![Atom](https://img.shields.io/badge/Atom-66595C?style=for-the-badge&logo=Atom&logoColor=white)
-    ![MS Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)   
-    ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)   
-
-
-</p>
-
-<br>
-<br>
-
------
-
-<br>
-
-
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
-<br>
+<!-- ====================== TECH STACK ====================== -->
+## 🧰 Tech Stack
 
 <div align="center">
 
-<a href="https://github.com/x-frst/">
-  <img src="https://github-readme-stats.vercel.app/api?username=x-frst&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450"/>
-  <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=x-frst&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375"  alt="x-frst"/>
+<img src="https://skillicons.dev/icons?i=python,django,fastapi,flask,js,react,flutter,java,html,css&theme=dark&perline=10" alt="languages & frameworks" />
+<br/>
+<img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,aws,azure,git,linux,vscode,pycharm,postman&theme=dark&perline=10" alt="databases, cloud & tools" />
 
-</a>
-</div>
+<br/><br/>
 
-<br>
-<br>
-<br>
-
------
-
-<br>
-<br>
-
-## <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
-<br>
-<div align='left'>
-
-<ul>
-
-<li>
-<a href="https://www.linkedin.com/in/amit-pathak11/" target="_blank">
-<img src="https://img.shields.io/badge/linkedin:  Amit Pathak-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
-</a>
-</li>
-
-<br>
-
-<li>
-<a href="https://www.instagram.com/x_frst/" target="_blank">
-<img src="https://img.shields.io/badge/instagram:  x_frst-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=instagram&logoColor=white" alt=twitter style="margin-bottom: 5px;"/>
-</a>
-</li>
-
-<br>
-
-<li>
-<a href="https://www.discord.com/users/377132426599727133" target="_blank">
-<img src="https://img.shields.io/badge/discord:  X FRST-%23EA4335.svg?style=for-the-badge&logo=discord&logoColor=white" t=mail style="margin-bottom: 5px;" />
-</a>
-</li>
-	
-</ul>
-</div>
-
-<br>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<br>
-<br>
-<br>
-
-<div align='center'>
-
-## Quote Of The Day 💫
-
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+<img src="https://img.shields.io/badge/REST%20APIs-FF6B6B?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/HAL-845EC2?style=for-the-badge" />
+<img src="https://img.shields.io/badge/OAuth-EB5424?style=for-the-badge&logo=auth0&logoColor=white" />
+<img src="https://img.shields.io/badge/JWT-D63AFF?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
+<img src="https://img.shields.io/badge/JSON-1DD3B0?style=for-the-badge&logo=json&logoColor=white" />
+<img src="https://img.shields.io/badge/Web%20Scraping-00B894?style=for-the-badge" />
+<img src="https://img.shields.io/badge/MariaDB-C0765A?style=for-the-badge&logo=mariadb&logoColor=white" />
+<img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" />
+<img src="https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
+<img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
+<img src="https://img.shields.io/badge/KivyMD-00A98F?style=for-the-badge" />
+<img src="https://img.shields.io/badge/SVN-809CC9?style=for-the-badge&logo=subversion&logoColor=white" />
+<img src="https://img.shields.io/badge/Contabo-0A4EA2?style=for-the-badge" />
 
 </div>
-<br>
-<br>
-<br>
-<br>
 
----
+<br/>
 
-<br>
+<!-- ====================== STATS ====================== -->
+## 📊 GitHub Stats
 
-Last Edited: 04/03/2023
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=x-frst&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=radical" alt="stats" />
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=x-frst&hide_border=true&theme=radical" alt="streak" />
+
+<br/>
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs?username=x-frst&layout=compact&hide_border=true&langs_count=10&theme=radical" alt="top languages" />
+
+</div>
+
+<br/>
+
+<!-- ====================== CONTRIBUTION GRAPH ====================== -->
+## 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=x-frst&bg_color=0d1117&color=F000B0&line=00C2FF&point=ffffff&area=true&area_color=8E2DE2&hide_border=true" width="100%" alt="contribution graph" />
+
+</div>
+
+<br/>
+
+<!-- ====================== FEATURED PROJECTS ====================== -->
+## 🚀 Featured Projects
+
+<div align="center">
+
+<a href="https://github.com/x-frst/elyraos">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=x-frst&repo=elyraos&theme=radical&hide_border=true&description_lines_count=2" alt="ElyraOS" />
+</a>
+<a href="https://github.com/x-frst/discord-estore-bot">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=x-frst&repo=discord-estore-bot&theme=radical&hide_border=true&description_lines_count=2" alt="Discord E-Store Bot" />
+</a>
+<a href="https://github.com/x-frst/xyno-selfbot">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=x-frst&repo=xyno-selfbot&theme=radical&hide_border=true&description_lines_count=2" alt="Xyno Selfbot" />
+</a>
+
+</div>
+
+- 🌌 &nbsp;**[ElyraOS](https://github.com/x-frst/elyraos):** a browser-based desktop OS (React + Vite + Express + PostgreSQL) with a full windowed environment — file manager, code editor, terminal, AI assistant and more.
+- 📦 &nbsp;**[Discord E-Store Bot](https://github.com/x-frst/discord-estore-bot):** an Amazon-style delivery bot for Discord with a real-time Flask dashboard for packing and delivering orders.
+- ⚡ &nbsp;**[Xyno Selfbot](https://github.com/x-frst/xyno-selfbot):** a feature-rich Discord selfbot built on discord.py-self.
+
+<div align="center">
+<br/>
+<a href="https://github.com/x-frst?tab=repositories"><img src="https://img.shields.io/badge/See%20all%20repositories%20%E2%86%92-00C2FF?style=for-the-badge&labelColor=8E2DE2" alt="all repos" /></a>
+</div>
+
+<br/>
+
+<!-- ====================== CONNECT ====================== -->
+## 🤝 Let's Connect
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/amit-pathak11/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://portfolio.kyroton.com" target="_blank"><img src="https://img.shields.io/badge/Portfolio-F000B0?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+<a href="https://www.instagram.com/x_frst/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+<a href="https://discord.com/users/377132426599727133" target="_blank"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+<a href="mailto:amit.pathak1199@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+
+</div>
+
+<br/>
+
+<!-- ====================== QUOTE ====================== -->
+<div align="center">
+
+> *"Always reinventing and seeking better solutions, taking the journey of learning to adapt to new technologies."*
+
+</div>
+
+<!-- ====================== FOOTER (visible on both themes) ====================== -->
+<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=140&color=0:00C2FF,50:F000B0,100:8E2DE2&animation=twinkling" width="100%" alt="" />
+
+<div align="center">
+<sub>⚡ Last updated · June 2026 · thanks for visiting!</sub>
+</div>
